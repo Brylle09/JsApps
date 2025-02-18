@@ -2,7 +2,7 @@
 
 // Function to display a greeting message
 function greet(name) {
-    return `Hello, ${name}! Welcome to JavaScript.`;
+    return `Hello Everyone!, ${name}! Welcome to my first app.`;
 }
 
 // Example usage
